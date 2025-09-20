@@ -1,0 +1,9 @@
+tensorflow==1.8.0
+numpy==1.13.3
+gym==0.9.4
+cma==2.2.0
+mpi4py==2.0.0
+jupyter
+matplotlib
+scipy==1.1.0
+pyglet
